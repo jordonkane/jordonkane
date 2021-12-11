@@ -1,7 +1,7 @@
 Hi There! 👋
 - ✏️ I am currently working on a variety of personal projects.
 - 🌱 I’m currently learning about Software Architectural Patterns and machine learning.
-- 🧑‍🤝‍🧑 I’m looking to collaborate on any open source projects involving C++.
+- 🧑‍🤝‍🧑 I’m looking to collaborate on any open source projects involving SDL2.
 - 🤔 I am currently looking for help with dynamic programming.
 - 💬 Ask me about topics concerning C++, piano, and fitness.
 - 📫 How to reach me: Email - kanejord99@outlook.com
