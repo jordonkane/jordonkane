@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=90&multiline=true&width=720&height=130&lines=Welcome+to+my+profile" alt="Title" />
 </div>
 
-## <div align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="3%"/>, My fullname is Jordon Kane <h5> A passionate full-stack developer from Old Dominion University <img src="https://media.giphy.com/media/xBeM3b0G6brQCbR6RB/giphy.gif"  width="3%"></h5></div>
+## <div align="center">Hi!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="3%"/> My name is Jordon Kane <h5> A passionate full-stack developer from Old Dominion University <img src="https://media.giphy.com/media/xBeM3b0G6brQCbR6RB/giphy.gif"  width="3%"></h5></div>
 
 Hi There! 👋
 - ✏️ I am currently working on a variety of APIs and full-stack web apps.
