@@ -1,6 +1,5 @@
 <div align="center">
 <h1>Hi There! 👋 I'm Jordon!</h1>
-  <h3>Full-Stack Developer</h3>
 </div>
 
 - ✏️ I am currently working on a variety of APIs and full-stack web apps.
