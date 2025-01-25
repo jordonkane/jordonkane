@@ -45,8 +45,8 @@
 
   <h1>what i build:</h1>
   <a href="https://github.com/jordonkane/piano-store"><img src="https://github.com/user-attachments/assets/fc0300ef-f57c-4b57-abca-c947c79a6b57" width="400" height="400" /></a>
-  <a href="https://github.com/jordonkane/KeyRemap"><img src="https://github.com/user-attachments/assets/6ef31eed-9e67-4779-b82a-ca996a980de2" width="400" height="400" /></a>
+  <a href="https://github.com/jordonkane/KeyRemap"><img src="https://github.com/user-attachments/assets/658d38e9-517e-429e-a38f-fde4d47ce836" width="400" height="400" /></a>
   <br>
   Feel free to click one of the images if you're interested!
-  
+
 </div>
